@@ -35,3 +35,6 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+/*
+sıkıntıları var
+*/
