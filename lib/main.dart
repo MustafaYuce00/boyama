@@ -37,4 +37,5 @@ class MyApp extends StatelessWidget {
 }
 /*
 sıkıntıları var
+mesela resimler taşıyor 
 */
