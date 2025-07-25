@@ -38,4 +38,5 @@ class MyApp extends StatelessWidget {
 /*
 sıkıntıları var
 mesela resimler taşıyor 
+cizgi boyutlari bagimsiz olmasi lazim
 */
